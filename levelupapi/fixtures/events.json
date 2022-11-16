@@ -1,0 +1,24 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+          "game": 1,
+          "description": "A sweet ass game",
+          "date": "2022-11-21",
+          "time": "08:45",
+          "organizer": 1
+      }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+        "game": 2,
+        "description": "A great time was had",
+        "date": "2022-12-25",
+        "time": "09:00:00",
+        "organizer": 1
+    }
+}
+]

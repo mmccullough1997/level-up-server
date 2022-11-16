@@ -1,0 +1,26 @@
+[
+  {
+      "model": "levelupapi.game",
+      "pk": 1,
+      "fields": {
+          "game_type": 1,
+          "title": "The Flying Dutchman",
+          "maker": "Mitch",
+          "gamer": 1,
+          "number_of_players": 3,
+          "skill_level": 5
+      }
+  },
+  {
+      "model": "levelupapi.game",
+      "pk": 2,
+      "fields": {
+        "game_type": 2,
+        "title": "Nightworms",
+        "maker": "Mitchy",
+        "gamer": 1,
+        "number_of_players": 7,
+        "skill_level": 2
+    }
+  }
+]
